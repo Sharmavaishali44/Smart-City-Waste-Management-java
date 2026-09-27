@@ -1,0 +1,13 @@
+bin/
+*.class
+
+.vscode/
+.idea/
+*.iml
+
+config/db.properties
+
+*.log
+
+.DS_Store
+Thumbs.db
